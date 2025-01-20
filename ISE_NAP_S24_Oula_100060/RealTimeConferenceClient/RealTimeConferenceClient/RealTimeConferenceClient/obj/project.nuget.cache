@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1/TDQxgGhnc=",
+  "dgSpecHash": "OKpTPpxuwV0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ziads\\Desktop\\S24\\NAP\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient.csproj",
+  "projectFilePath": "C:\\Users\\ziads\\Documents\\GitHub\\NAP\\ISE_NAP_S24\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ziads\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
     "C:\\Users\\ziads\\.nuget\\packages\\aforge.video\\2.2.5\\aforge.video.2.2.5.nupkg.sha512",

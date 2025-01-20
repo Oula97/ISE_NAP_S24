@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ziads\\Desktop\\S24\\NAP\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient.csproj": {}
+    "C:\\Users\\ziads\\Documents\\GitHub\\NAP\\ISE_NAP_S24\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ziads\\Desktop\\S24\\NAP\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient.csproj": {
+    "C:\\Users\\ziads\\Documents\\GitHub\\NAP\\ISE_NAP_S24\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ziads\\Desktop\\S24\\NAP\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient.csproj",
+        "projectUniqueName": "C:\\Users\\ziads\\Documents\\GitHub\\NAP\\ISE_NAP_S24\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient.csproj",
         "projectName": "RealTimeConferenceClient",
-        "projectPath": "C:\\Users\\ziads\\Desktop\\S24\\NAP\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient.csproj",
+        "projectPath": "C:\\Users\\ziads\\Documents\\GitHub\\NAP\\ISE_NAP_S24\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient.csproj",
         "packagesPath": "C:\\Users\\ziads\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ziads\\Desktop\\S24\\NAP\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\obj\\",
+        "outputPath": "C:\\Users\\ziads\\Documents\\GitHub\\NAP\\ISE_NAP_S24\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

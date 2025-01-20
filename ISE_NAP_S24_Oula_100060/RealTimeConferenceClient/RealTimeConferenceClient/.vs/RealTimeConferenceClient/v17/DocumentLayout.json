@@ -1,13 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ziads\\Desktop\\S24\\NAP\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\",
+  "WorkspaceRootPath": "C:\\Users\\ziads\\Documents\\GitHub\\NAP\\ISE_NAP_S24\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B171122E-8A7F-45E6-B550-D078E0459B60}|RealTimeConferenceClient\\RealTimeConferenceClient.csproj|c:\\users\\ziads\\desktop\\s24\\nap\\ise_nap_s24_oula_100060\\realtimeconferenceclient\\realtimeconferenceclient\\realtimeconferenceclient\\roomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B171122E-8A7F-45E6-B550-D078E0459B60}|RealTimeConferenceClient\\RealTimeConferenceClient.csproj|c:\\users\\ziads\\documents\\github\\nap\\ise_nap_s24\\ise_nap_s24_oula_100060\\realtimeconferenceclient\\realtimeconferenceclient\\realtimeconferenceclient\\roomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B171122E-8A7F-45E6-B550-D078E0459B60}|RealTimeConferenceClient\\RealTimeConferenceClient.csproj|solutionrelative:realtimeconferenceclient\\roomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B171122E-8A7F-45E6-B550-D078E0459B60}|RealTimeConferenceClient\\RealTimeConferenceClient.csproj|c:\\users\\ziads\\desktop\\s24\\nap\\ise_nap_s24_oula_100060\\realtimeconferenceclient\\realtimeconferenceclient\\realtimeconferenceclient\\roomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B171122E-8A7F-45E6-B550-D078E0459B60}|RealTimeConferenceClient\\RealTimeConferenceClient.csproj|c:\\users\\ziads\\documents\\github\\nap\\ise_nap_s24\\ise_nap_s24_oula_100060\\realtimeconferenceclient\\realtimeconferenceclient\\realtimeconferenceclient\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B171122E-8A7F-45E6-B550-D078E0459B60}|RealTimeConferenceClient\\RealTimeConferenceClient.csproj|solutionrelative:realtimeconferenceclient\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B171122E-8A7F-45E6-B550-D078E0459B60}|RealTimeConferenceClient\\RealTimeConferenceClient.csproj|c:\\users\\ziads\\documents\\github\\nap\\ise_nap_s24\\ise_nap_s24_oula_100060\\realtimeconferenceclient\\realtimeconferenceclient\\realtimeconferenceclient\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B171122E-8A7F-45E6-B550-D078E0459B60}|RealTimeConferenceClient\\RealTimeConferenceClient.csproj|solutionrelative:realtimeconferenceclient\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B171122E-8A7F-45E6-B550-D078E0459B60}|RealTimeConferenceClient\\RealTimeConferenceClient.csproj|c:\\users\\ziads\\documents\\github\\nap\\ise_nap_s24\\ise_nap_s24_oula_100060\\realtimeconferenceclient\\realtimeconferenceclient\\realtimeconferenceclient\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B171122E-8A7F-45E6-B550-D078E0459B60}|RealTimeConferenceClient\\RealTimeConferenceClient.csproj|solutionrelative:realtimeconferenceclient\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B171122E-8A7F-45E6-B550-D078E0459B60}|RealTimeConferenceClient\\RealTimeConferenceClient.csproj|C:\\Users\\ziads\\Documents\\GitHub\\NAP\\ISE_NAP_S24\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\realtimeconferenceclient\\roomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B171122E-8A7F-45E6-B550-D078E0459B60}|RealTimeConferenceClient\\RealTimeConferenceClient.csproj|solutionrelative:realtimeconferenceclient\\roomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,15 +30,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ziads\\Documents\\GitHub\\NAP\\ISE_NAP_S24\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\MainDashboard.cs",
+              "RelativeDocumentMoniker": "RealTimeConferenceClient\\MainDashboard.cs",
+              "ToolTip": "C:\\Users\\ziads\\Documents\\GitHub\\NAP\\ISE_NAP_S24\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\MainDashboard.cs",
+              "RelativeToolTip": "RealTimeConferenceClient\\MainDashboard.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAqwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:27:59.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ziads\\Documents\\GitHub\\NAP\\ISE_NAP_S24\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\MainDashboard.cs",
+              "RelativeDocumentMoniker": "RealTimeConferenceClient\\MainDashboard.cs",
+              "ToolTip": "C:\\Users\\ziads\\Documents\\GitHub\\NAP\\ISE_NAP_S24\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\MainDashboard.cs [Design]",
+              "RelativeToolTip": "RealTimeConferenceClient\\MainDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:24:01.305Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\ziads\\Documents\\GitHub\\NAP\\ISE_NAP_S24\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\Room.cs",
+              "RelativeDocumentMoniker": "RealTimeConferenceClient\\Room.cs",
+              "ToolTip": "C:\\Users\\ziads\\Documents\\GitHub\\NAP\\ISE_NAP_S24\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\Room.cs",
+              "RelativeToolTip": "RealTimeConferenceClient\\Room.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:23:55.545Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "RoomForm.cs",
-              "DocumentMoniker": "C:\\Users\\ziads\\Desktop\\S24\\NAP\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\RoomForm.cs",
+              "DocumentMoniker": "C:\\Users\\ziads\\Documents\\GitHub\\NAP\\ISE_NAP_S24\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\RoomForm.cs",
               "RelativeDocumentMoniker": "RealTimeConferenceClient\\RoomForm.cs",
-              "ToolTip": "C:\\Users\\ziads\\Desktop\\S24\\NAP\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\RoomForm.cs",
+              "ToolTip": "C:\\Users\\ziads\\Documents\\GitHub\\NAP\\ISE_NAP_S24\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\RoomForm.cs",
               "RelativeToolTip": "RealTimeConferenceClient\\RoomForm.cs",
               "ViewState": "AgIAAMgBAAAAAAAAAAAuwNMBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -35,15 +85,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "RoomForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ziads\\Desktop\\S24\\NAP\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\RoomForm.cs",
+              "DocumentMoniker": "C:\\Users\\ziads\\Documents\\GitHub\\NAP\\ISE_NAP_S24\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\RoomForm.cs",
               "RelativeDocumentMoniker": "RealTimeConferenceClient\\RoomForm.cs",
               "ToolTip": "C:\\Users\\ziads\\Desktop\\S24\\NAP\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\RoomForm.cs [Design]",
-              "RelativeToolTip": "RealTimeConferenceClient\\RoomForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Desktop\\S24\\NAP\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceClient\\RealTimeConferenceClient\\RealTimeConferenceClient\\RoomForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T12:23:14.785Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-20T12:23:14.785Z"
             }
           ]
         }
