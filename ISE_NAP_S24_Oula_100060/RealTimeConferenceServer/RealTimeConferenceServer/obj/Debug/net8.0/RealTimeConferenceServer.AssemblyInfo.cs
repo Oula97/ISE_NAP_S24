@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RealTimeConferenceServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bf08029b2616e3be6bc7c4c6d9e6a32a85bbb30")]
 [assembly: System.Reflection.AssemblyProductAttribute("RealTimeConferenceServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RealTimeConferenceServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

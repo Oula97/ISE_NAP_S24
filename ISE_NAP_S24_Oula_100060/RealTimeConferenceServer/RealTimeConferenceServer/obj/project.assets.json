@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ziads\\Desktop\\S24\\NAP\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceServer\\RealTimeConferenceServer\\RealTimeConferenceServer.csproj",
+      "projectUniqueName": "C:\\Users\\ziads\\Documents\\GitHub\\NAP\\ISE_NAP_S24\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceServer\\RealTimeConferenceServer\\RealTimeConferenceServer.csproj",
       "projectName": "RealTimeConferenceServer",
-      "projectPath": "C:\\Users\\ziads\\Desktop\\S24\\NAP\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceServer\\RealTimeConferenceServer\\RealTimeConferenceServer.csproj",
+      "projectPath": "C:\\Users\\ziads\\Documents\\GitHub\\NAP\\ISE_NAP_S24\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceServer\\RealTimeConferenceServer\\RealTimeConferenceServer.csproj",
       "packagesPath": "C:\\Users\\ziads\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ziads\\Desktop\\S24\\NAP\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceServer\\RealTimeConferenceServer\\obj\\",
+      "outputPath": "C:\\Users\\ziads\\Documents\\GitHub\\NAP\\ISE_NAP_S24\\ISE_NAP_S24_Oula_100060\\RealTimeConferenceServer\\RealTimeConferenceServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
