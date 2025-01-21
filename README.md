@@ -22,7 +22,7 @@
 ---
 | System Architecture           | Data Flow Diagrams          | Sequence Diagrams            |
 |-------------------|-------------------|-------------------|
-| <img src="assets/images/sad.png" width="100"/> | <img src="assets/images/dfd.png" width="100"/> | <img src="assets/images/sd.png" width="100"/> |
+| <img src="assets/images/sad.png" width="200"/> | <img src="assets/images/dfd.png" width="200"/> | <img src="assets/images/sd.png" width="200"/> |
 
 ---
 
@@ -59,7 +59,7 @@ cd RealTimeConferenceServer.sln
 ---
 | Run the server           | 
 |-------------------|
-| <img src="assets/images/main_interface.png" width="100"/> 
+| <img src="assets/images/Server.png" width="200"/> 
 
 ---
 #### 4. Start the Client
@@ -76,7 +76,7 @@ cd RealTimeConferenceClient.sln
 ---
 | Start           | MainDashboard            | RoomForm            |
 |-------------------|-------------------|-------------------|
-| <img src="assets/images/main_interface.png" width="100"/> | <img src="assets/images/main_Dashboard.png" width="100"/> | <img src="assets/images/Room_Interface.png" width="100"/> |
+| <img src="assets/images/main_interface.png" width="200"/> | <img src="assets/images/main_Dashboard.png" width="200"/> | <img src="assets/images/Room_Interface.png" width="200"/> |
 
 ---
 ## Contribution Guidelines
