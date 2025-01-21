@@ -20,6 +20,11 @@
 - **Protocols**: TCP, UDP, WebSocket
 
 ---
+| System Architecture           | Data Flow Diagrams          | Sequence Diagrams            |
+|-------------------|-------------------|-------------------|
+| <img src="assets/images/sad.png" width="100"/> | <img src="assets/images/dfd.png" width="100"/> | <img src="assets/images/sd.png" width="100"/> |
+
+---
 
 ## Setup Instructions
 
@@ -51,7 +56,12 @@ Run the server application:
 cd RealTimeConferenceServer.sln
  dotnet run
 ```
+---
+| Run the server           | 
+|-------------------|
+| <img src="assets/images/main_interface.png" width="100"/> 
 
+---
 #### 4. Start the Client
 Run the client application (multiple instances for testing):
 ```bash
@@ -64,7 +74,11 @@ cd RealTimeConferenceClient.sln
 - Test real-time chat, video/audio streaming, and updates.
 
 ---
+| Start           | MainDashboard            | RoomForm            |
+|-------------------|-------------------|-------------------|
+| <img src="assets/images/main_interface.png" width="100"/> | <img src="assets/images/main_Dashboard.png" width="100"/> | <img src="assets/images/Room_Interface.png" width="100"/> |
 
+---
 ## Contribution Guidelines
 - **Coding Standards**: Follow C# conventions and .NET best practices.
 - **Commit Messages**: Use clear and concise messages.
@@ -74,6 +88,8 @@ cd RealTimeConferenceClient.sln
 - **Documentation**: Maintain a CHANGELOG.md file to document progress and changes for each feature.
 
 ---
+
+
 
 ## License
 This project is licensed under the MIT License. See LICENSE.md for details.
